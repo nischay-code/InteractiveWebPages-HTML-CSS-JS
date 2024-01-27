@@ -30,3 +30,5 @@ We welcome contributions from everyone! If you'd like to contribute to this proj
 3. Make your changes and commit them: `git commit -am 'Add a new feature'`
 4. Push to the branch: `git push origin feature-new-feature`
 5. Submit a pull request! 🚀
+
+🌟 Happy note-taking with iNotebook! 🌟
